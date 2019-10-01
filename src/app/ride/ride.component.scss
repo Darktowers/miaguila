@@ -1,0 +1,9 @@
+.app{
+    display: flex;
+    app-side-menu {
+        width: 20%;
+    }
+    app-map {
+        width: 80%;
+    }
+}

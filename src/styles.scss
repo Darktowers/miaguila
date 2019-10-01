@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+:root{
+    --primary: #2EA110;
+    --secondary: #FF8C00;
+    --alert: #ff0000;
+    --gray: #2B2B2B;
+    --white: #fff;
+    --fontDark: #707070;
+    --border-radius: 15px;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Roboto', sans-serif; }
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
